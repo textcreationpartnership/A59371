@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several advertisements concerning the services and sufferings of Sir William Courten, and Sir Paul Pyndar, for the Crown of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59371</idno>
+            <idno type="STC">Wing S2748</idno>
+            <idno type="STC">ESTC R37377</idno>
+            <idno type="EEBO-CITATION">16412556</idno>
+            <idno type="OCLC">ocm 16412556</idno>
+            <idno type="VID">105382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59371)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several advertisements concerning the services and sufferings of Sir William Courten, and Sir Paul Pyndar, for the Crown of England</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: torn, with loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courten, William, --  Sir, 1572-1636.</term>
+               <term>Pindar, Paul, --  Sir, 1565 or 6-1650.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105382:1" rendition="simple:additions"/>
+            <head>Several Advertiſements concerning the Services and Sufferings of Sir <hi>William Courten,</hi> and Sir <hi>Paul Pyndar,</hi> for the Crown of <hi>England.</hi>
+            </head>
+            <p>SIr <hi>William Courten</hi> and Sir <hi>Paul Pyndar,</hi> having furniſhed the late King <hi>CHARLES</hi> (of ever Bleſſed Memory) with divers great ſums of Money towards the ordinary charge of the Crown, and other Supplies, upon emergent occaſions incumbent upon His ſaid Majeſty; more particularly for the Funeral of King <hi>James,</hi> Relief of the Proteſtants in <hi>France,</hi> at <hi>Rochel,</hi> and the Iſle of <hi>Ree,</hi> Exhibitions to the Queen of <hi>Bohemia</hi> and her Children, Expeditions into <hi>Ireland,</hi> and ſeveral Disburſements for Diamonds, and other Iewels of the Crown, <hi>&amp;c.</hi> All lent and advanced before the year <hi>1640.</hi> upon ſeveral Aſsignments un<g ref="char:EOLhyphen"/>der the Great Seal of <hi>England,</hi> on the four intire Subſidies granted in Parliament; The Lord <hi>Wentworth's</hi> Collections of the Fines and Compoſitions out of Recuſants Eſtates in the Northern Counties, the Allom-Farm, and Sugar-Farm, <hi>&amp;c.</hi> Where<g ref="char:EOLhyphen"/>upon there remained <hi>148216 <abbr>l.</abbr> ſterl.</hi> unſatisfyed to the Eſtates of <hi>Courten</hi> and Pyndar at the Kings moſt Happy Reſtauration, as by the Records in the <hi>Exchequer</hi> ap<g ref="char:EOLhyphen"/>pears: Although the greateſt part of the ſaid Moneys belonged to Orphans and Widows, lent at Intereſt, to the ſaid Sir <hi>William Courten,</hi> and Sir <hi>Paul Pyndar.</hi>
+            </p>
+            <p>Several Addreſſes were made to His Majeſty in the year <hi>1661.</hi> by the prin<g ref="char:EOLhyphen"/>cipal Creditors, Humbly Praying, that the ſaid Debt might be ſatisfyed, either out of the Arrears and Supers in the Receivers and Collectors hands, together with the ſmall Rents under <hi>xx <abbr>s.</abbr> per annum,</hi> within the Survey of the Exchequer; Or out of the growing Fines and Compoſitions of Papiſts Convict: Or otherwiſe out of the Improved Values of the Firſt Fruits and Tenths of the Dignitaries of the Church, and other Spiritual Promotions excéeding <hi>100 <abbr>l.</abbr> per annum,</hi> upon mo<g ref="char:EOLhyphen"/>derate Surveys as the Law directs.</p>
+            <p>Theſe Propoſals were thought by the <hi>Secretarys</hi> of <hi>State</hi> to be very Iuſt and Eaſie for his Majeſty to pay ſuch a Debt of the Crown, which in Honour and Conſcience He was oblig'd to do; Wherefore References were made thereupon to the Lord High Treaſurer; and from him, to the Barons of the Exchequer; And from them, to the Auditors, of the Impreſt Receivers, and Clerks of the Pipe, to certify the State of the Accompts to the ſaid Barons, who made ſeveral Reports to the Lord Treaſurer, with their Opinions concerning the Iuſtice of the ſaid Debt; but nothing was effectually done for Relief of the ſaid Creditors, who had ſpent much Time and Moneys in ſolliciting after their Satisfaction.</p>
+            <p>Nevertheleſs the ſmall Chauntrey Rents, and others, were Sold, to avoid the charge of the Crown in collections, and the <hi>Papiſts</hi> indulged by Friends at Court, from Paying any Fines or Compoſitions; And the Dignitaries of the Church, with the reſt of the Clergy excuſed from any new Surveys upon the improved values of their Eſtates; upon a pretence of their ſufferings; and that the <hi>Biſhops</hi> had been very inſtrumental in the Kings Reſtoration, ſo the Debt ſtill reſts in <hi>Statu quo, only there is a Reference from His Majeſtie, dated the 8th of</hi> May <hi>1679. Depending be<g ref="char:EOLhyphen"/>fore the Lords, Commiſſioners of the Treaſury, upon the Petition of</hi> Richard Powel <abbr>Eſq</abbr> 
+               <hi>and</hi> Nathaniel Hill Gent. <hi>concerning a Grant for ſome ſatisfaction out of the Fines, Forfeitures, or Compoſitions of</hi> Papiſts <hi>convict, on the behalf of themſelves and the reſt of the Creditors.</hi>
+            </p>
+            <p>THat in contemplation of the particular Service of Sir <hi>Paul Pyndar, who had out of his great zeal and Loyalty towards the preſervation of the Royal Family, ſent ſeveral Sums of Money in Gold to</hi> Oxford, <hi>(by the Hands of</hi> Madam Iean Whorewood, <hi>yet Living,) in the year 1644. For Tranſporting of His Majeſty, when he was</hi> Prince of Wales, <hi>and the late</hi> Queen His Mother, <hi>with their Servants and Goods to</hi> Breſt in France. His now Majeſty was graciouſly pleaſed in the year <hi>1664.</hi> to grant an Allowance of Sir <hi>Paul Pyndars</hi> proportion of Money, advanced with his Partners, upon a contract for the Cuſtoms, in the year <hi>1640.</hi> that was not in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyed; which ſaid allowance by the ſaid Grant, was to be paid upon an Aſſign<g ref="char:EOLhyphen"/>ment and Tally ſtruck upon the Farm, held by Sir <hi>John Wolſtenholme,</hi> Sir <hi>John <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haw,</hi> Sir <hi>Nicholas Criſp,</hi> and others, <hi>Anno 1667.</hi> but was <hi>poſt-poned,</hi> and not payed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this day of advertiſment, although it doth not extend to half the value of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old ſent to <hi>Oxford</hi> as aforeſaid; his now Majeſty, and others then preſent, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ving lately owned the ſame.</p>
+            <pb n="2" facs="tcp:105382:2"/>
+            <p>THat Sir <hi>William Courten,</hi> at his own proper Coſts and Charges, Diſcove<g ref="char:EOLhyphen"/>red, Planted and ſettled the Iſland of <hi>Barbadoes,</hi> in the beginning of the late Kings Reign, without any Aid or A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſtance from the Crown; and be<g ref="char:EOLhyphen"/>ing in the quiet poſſeſſion thereof, for the ſpace of two years and upwards, having Peopled the ſaid Iſland with great numbers of <hi>Engliſh</hi> Men, Women and Children, beſides Indians there, in ſeveral Plantations, (as by the Caſhiers and Accomptants of Sir <hi>William Courten</hi> yet living appears,) <hi>James</hi> late Earl of <hi>Carliſle,</hi> under the pretence of a Patent creating him Lord Proprietor of the <hi>Caribbee</hi> Iſlands, entred upon the ſaid Iſland of <hi>Barbadoes</hi> by force of Arms, and diſpoſſeſſed the ſaid Sir <hi>William Courten,</hi> and his Heirs of their legal Right and Propriety, in an Arbi<g ref="char:EOLhyphen"/>trary and Tyrannical way; cauſing Sir <hi>William Tufton,</hi> and the Principal Agents and Factors of Sir <hi>William Courten,</hi> ſome to be Shot to Death, and others Ba<g ref="char:EOLhyphen"/>niſhed, contrary to the Laws of God and Nations.</p>
+            <p>That in all revolutions of time and Government, the Heirs, Executors, Ad<g ref="char:EOLhyphen"/>miniſtors, and Creditors of Sir <hi>William Courten</hi> and his Son, continually Clay<g ref="char:EOLhyphen"/>med and appealed for Iuſtice and reſtitution in this Grand Caſe of Violence and Oppreſſion, ſome Perſons indeavouring for quieting the poſſeſſions, to annex the ſaid Iſland to the Crown of <hi>England;</hi> by Act of Parliament, and others to transfer the Legal Intreſt of Sir <hi>William Courten,</hi> to ſome Forreign Prince or State, in the time of the late Rebellion.</p>
+            <p>That upon the Kings Reſtauration to his Crown and Kingdoms, ſeveral Debates ariſing, between the Lord <hi>Willoughby of Parham,</hi> (clayming a Leaſe under <hi>Carliſle,</hi> the pretended Lord Proprietor,) and the Planters that by intruſion had ſettled them<g ref="char:EOLhyphen"/>ſelves upon the ſaid Iſland, <hi>William Courten</hi> 
+               <abbr>Eſq</abbr> the Grandchild, and Heir of Sir <hi>William Courten,</hi> together with Divers of the Principal Creditors of his Father and Grand-Father, Humbly addreſſed themſelves to the King, by Petition; Praying that His Majeſty would be graciouſly pleaſed, to interpoſe by his Pre<g ref="char:EOLhyphen"/>rogative Royal, for their Protection and Relief. Soon after His Majeſty declared in Council, that he would not aſſume any benefit to himſelf out of the Profits of the ſaid Iſland, until ſuch ſatisfaction ſhould be made to the Perſons Legally Inte<g ref="char:EOLhyphen"/>reſſed, as ſhall conſiſt with Equity, and good Conſcience. Notwithſtanding the Four and half <hi>per Cent,</hi> granted by the general Aſſembly of Intrudors, (out of all Merchandizes exported,) to the Lord Proprietor aforeſaid, in lieu of the old Servile Rents upon every head, was offered to be reſigned to the King; which afterwards was done to His Majeſty as Lord Proprietor; yet to this day, no Reſtitution or Reparation hath been made, either by the King, or the Planters, to the Heirs, or Executors, of Sir <hi>William Courten,</hi> for the Right and Property in the Spoyl; or the Original Coſts and Damages, of the firſt Diſcovering, For<g ref="char:EOLhyphen"/>tifying and Planting the ſaid Iſland; but the ſaid Duty is let out to Farm to <hi>John Stroud</hi> 
+               <abbr>Eſq</abbr> and others for <hi>6000 <abbr>l.</abbr> per annum,</hi> which is applyed to other uſes, that naturally belongs to the Heirs and Creditors of Sir <hi>William Courten.</hi>
+            </p>
+            <p>THat ſeveral Spoyls and Depredations being Committed by the chief Offi<g ref="char:EOLhyphen"/>cers belonging to the <hi>Eaſt-India Company</hi> of the <hi>Netherlands,</hi> upon the Ships and Factories of Sir <hi>William Courten,</hi> Sir <hi>Paul Pyndar,</hi> and their Partners in the <hi>Eaſt-India's,</hi> a particular Agreement was made in a Treaty of Common Alliance between the King of <hi>Great Brittain,</hi> and the <hi>States General</hi> in the year <hi>1662.</hi> That intire ſatisfaction and reparation ſhould be made in an amicable way, for the two Ships named the <hi>Bona-Eſperanza,</hi> and <hi>Henry Bona-Adventura,</hi> with their La<g ref="char:EOLhyphen"/>dings, wrongfully Seized, and converted to the uſe of the ſaid <hi>Eaſt-India</hi> Compa<g ref="char:EOLhyphen"/>ny; which was Earneſtly Solicited at the <hi>Hague,</hi> and <hi>Amſterdam,</hi> two years to<g ref="char:EOLhyphen"/>gether, after the ſaid Treaty; by Orders from the King and Council to Sir <hi>George Downing,</hi> his Majeſties Envoy Extraordinary, who controverted all the Points and anſwered all the Objections concerning the ſame, ☞ in Conferences with the Deputies of the <hi>States General,</hi> and Mr. <hi>Peter Vandam,</hi> the Advocate of the <hi>Eaſt-India Company;</hi> Yet nothing could take Effect any further then an offer of <hi>200000 Gilders,</hi> for all the ſaid Spoyls and Depredations.</p>
+            <p>That upon further application to his Majeſty, the Debt and Damages for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid Spoyls and Depredations, were ſtated and aſcertained upon His Majeſties Command, by the Iudge of the Admiralty; Whereupon an eſpecial Grant, b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Letters Patents, paſſed the Great Seal of <hi>England,</hi> the <hi>19th.</hi> of <hi>May 1665.</hi> to S<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Edmond Turnor</hi> Knt. and <hi>George Carew</hi> 
+               <abbr>Eſq</abbr> their Executors, Adminiſtrators, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Aſſigns, on the behalf of all Perſons intereſſed, to Reprize and Recover t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaid Debt ſo Liquidated, amounting to the ſum of <hi>151612 <abbr>l.</abbr>
+               </hi> With all Coſts an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:105382:2"/>Damages incident to the recovery thereof. His Majeſty Expreſly declaring in the ſaid Letters Patents, that the ſaid Grant ſhould continue, and remain Effe<g ref="char:EOLhyphen"/>ctual in the Law, for that end and purpoſe; Notwithſtanding any Alliance or Correſpondence whatſoever afterwards to be made between the <hi>King,</hi> and the <hi>States General.</hi>
+            </p>
+            <p>The Proprietors and Creditors being numerous, and holding themſelves to be ſecured by the common Law of <hi>England,</hi> by Virtue of the ſaid Grant, paſſing of common Right; wherein they were veſted with an Intereſt, coupled with an Au<g ref="char:EOLhyphen"/>thority, to recover the ſaid Debt, as the Law directs. Whereupon a third part thereof was Aſſigned to <hi>John Brown</hi> Gent. and <hi>John Graham</hi> 
+               <abbr>Eſq</abbr> in the Month of <hi>May 1666.</hi> under the ſame Conditions and Limitations, contained in the original Grant, Inrolled in <hi>Chancery,</hi> with power to recover the ſame, for the benefit of themſelves, and divers other Creditors, mentioned in a ſchedule thereunto annexed, who delivered up their Bonds accordingly.</p>
+            <p>Thereupon ſeveral ſmall Frigats were ſet forth in the year <hi>1666.</hi> to Repriſe their proportionable ſhare of the ſaid Debt and Damages; but it being in time of War, ſeveral common Claymers appeared, ſo moſt part of the Ships and Goodstaken, were diſcharged by the Court of Admiralty, upon account of <hi>Flemings, Hamburgers &amp;c.</hi> And the reſt would not ſatisfie the Incident Coſts and Expences. Wherefore they deſiſted until a more ſeaſonable opportunity in time of Peace.</p>
+            <p>Then it happned in the Month of <hi>June 1667.</hi> that a Treaty of Peace and Common Alliance was concluded at <hi>Breda,</hi> between the <hi>King</hi> and the <hi>States General;</hi> wherein it was mentioned, that all Letters of Marque and Reprizals, ought to be compre<g ref="char:EOLhyphen"/>hended, and made void.</p>
+            <p>That in the year <hi>1672.</hi> upon new Differences between the <hi>King</hi> and the <hi>States Gene<g ref="char:EOLhyphen"/>ral,</hi> the ſaid Treaty at <hi>Breda</hi> was by His Majeſtie Declared <hi>Null</hi> and <hi>Void;</hi> The Pro<g ref="char:EOLhyphen"/>prietors and Creditors then applyed themſelves to the <hi>King and Council,</hi> in this ſingular Caſe of the ſaid Ships, for further redreſs, (being the only matter Liqui<g ref="char:EOLhyphen"/>dated and Eſtabliſhed, under the Great Seal of <hi>England,</hi>) Whereupon His Majeſty alſo declared, that he would inſiſt upon intire Satisfaction and Reparation; and gave Inſtructions to his Embaſſadors and Plenipotentiaries accordingly, reci<g ref="char:EOLhyphen"/>ting the Debt ſtated, and the Letters Patents aforeſaid; Affirming alſo, that in this caſe he would take care to Protect his Subjects in their juſt Rights, as well as to aſſiſt them in the recovery thereof.</p>
+            <p>THat in the year <hi>1673.</hi> A Peace and Common Allyance was concluded at <hi>London,</hi> between the <hi>King</hi> and the <hi>States General,</hi> upon an agreement made (amongſt other things that <hi>800000 Pattaccoons,</hi> ſhould be payed to his Majeſty, at four equal payments, in four years; Leaving the Debt and Damages of the <hi>Bona-Eſperanza,</hi> and <hi>Henry Bona-Adventura,</hi> ſtill open at large, without any mention thereof, in the ſaid Treaty (ſince violated by the <hi>Hollanders,</hi>) The <hi>Miniſters</hi> of State, forgetting the Honour and Intereſt of the King and Kingdom, Confirmed the Treaty at <hi>Breda, (lately declared abſolutely void)</hi> that was attended with the Diſhonourable circumſt<g ref="char:EOLhyphen"/>ſtances of <hi>Chatham,</hi> where the Kings Ships were Burnt, (during that Treaty) by an ungrateful People, that live upon the Spoyles of all Nations.</p>
+            <p>Then the Proprietors and Creditors concerned in the Loſs and Damages of the ſaid Ships; cauſed new Addreſſes to be made at the <hi>Hague, Amſterdam,</hi> and <hi>White-Hall,</hi> with Proteſts, that if ſome conſiderable part of the <hi>Pattacoons</hi> were not payd to the Proprietors and Creditors towards their ſatisfaction, then ſhould be neceſſitated ſuddenly to put the ſaid Letters Patents in Execution for Reprizals, according to the Laws and Statutes of <hi>England.</hi>
+            </p>
+            <p>Yet nevertheleſs the firſt fourth part of the ſaid <hi>Pattacoons,</hi> were preſently Aſſigned to <hi>Alderman Backwel</hi> for other Services, and the three remaining parts to the Prince of <hi>Orange,</hi> (yet unſatisfied by the <hi>States</hi>) upon pretence of old Debts due to his Father and Grand-Father, from the late King of <hi>England;</hi> and no part of the ſaid <hi>Pattacoons</hi> for the Proprietors and Creditors, concern'd in the <hi>Bona-Eſperanza;</hi> and <hi>Bona-Adventura,</hi> that had uſhered in ſo many Millions of Pounds <hi>Sterling,</hi> for His Majeſties ſervice, and the good fortune of the ſaid Prince of <hi>Orange,</hi> by the Benefit and Advantage of all the <hi>Engliſh</hi> Bloud and Treaſure ſpent in reſtoring him to the Honours, Profits, and Offices of his Anceſtors, as Statholder, <hi>&amp;c.</hi>
+            </p>
+            <p>THat in the Month of <hi>September 1676.</hi> The States of <hi>Holland</hi> were ſo preſumptious upon the requeſt of <hi>Jacob Pergens</hi> of <hi>Amſterdam,</hi> (a free <hi>Denizen</hi> of <hi>England,</hi>) to ſend their Expreſs Order, in an Arbitrary way, to the ordinary Courts of Iuſtice in <hi>Amſterdam,</hi> and the Supreme Court of Iuditcture at the <hi>Hague,</hi> where ſeveral Actions were depending, and ready for Sentences againſt the ſaid <hi>Jacob
+<pb n="4" facs="tcp:105382:3"/>Pergens,</hi> and the Heirs, and Executors of <hi>Peter Boudaen,</hi> to ſtop the courſe of Law and Equity, (againſt all Sence and Reaſon,) upon Civil Contracts, Obligations, Bills of Exchange, and Merchants Accompts, for Goods and Monies truſted into their Hands by Sir <hi>William Courten,</hi> Sir <hi>Paul Pyndar,</hi> and <hi>William Courten</hi> 
+               <abbr>Eſq</abbr> to the value of <hi>134000 <abbr>l.</abbr> Sterling.</hi> Prohibiting the Iudges of the ſaid reſpective Courts, from all further proceedings at Law, or to give any Iudgement in the ſaid Cauſes, upon pretence that all particular and Perſonal actions whatſoever, were diſcharged and releaſed by the Treatyes concluded at <hi>Breda,</hi> and at <hi>London,</hi> between the <hi>King</hi> and the <hi>States General.</hi>
+            </p>
+            <p>The Perſons intereſted and oppreſſed by ſuch apparent breaches of the Laws, of Common Amity and Allyance; Firſt, appealed from the ſaid Arbitrary Order, to the <hi>States General;</hi> who anſwered, <hi>that they could not intermeddle therein, the States of</hi> Holland <hi>being Soveraigns in their own</hi> Province.</p>
+            <p>In the Month of <hi>July 1677.</hi> the Proprietors and Creditors appealed up their Petition to the <hi>King</hi> and <hi>Council,</hi> for relief againſt the <hi>States</hi> of <hi>Holland,</hi> by Repri<g ref="char:EOLhyphen"/>zals, if Iuſtice could not be obtained, by his Majeſties Letters of Recommen<g ref="char:EOLhyphen"/>dation to the ſaid <hi>States;</hi> For which Letters they Humbly Prayed; Whereupon two Orders of Council were made the 24 of <hi>July,</hi> that the Complainants ſhould be heard on the <hi>10th.</hi> of <hi>October 1677.</hi> But to this day no Hearing, or other Relief whatſoever, could be obtained.</p>
+            <p>About the Month of <hi>April 1680.</hi> The Creditors under Mr. <hi>Brownes</hi> Aſſignment, upon the account of the <hi>Bona Eſperanza;</hi> prepared to fit out three Ships under the Command of <hi>Captain Compton Gwyther,</hi> and others, to put the ſaid Letters of Re<g ref="char:EOLhyphen"/>prizals in Execution. Whereupon Several Orders from the Council Table, and alſo from the Lords of the Admiralty, iſſued forth in an Arbitrary and Extrajudicial way forceably to obſtruct their due Proceedings, calling none of the per<g ref="char:EOLhyphen"/>ſons concerned, judicially before them, by <hi>Scire Facias,</hi> or any other legal Proceſs, to anſwer for themſelves, or to ſhew cauſe why they ought not to have the benefit of the Law, or a compenſation in lieu thereof. Wherefore to prevent a failer of Iu<g ref="char:EOLhyphen"/>ſtice, and to vindicate the ſaid Cauſe from being made a Preſident of dangerous conſe<g ref="char:EOLhyphen"/>quence to the Rights, Liberties and Properties of the Subjects of <hi>England:</hi> The ſaid <hi>Captain Gwyther,</hi> Commander of the Ship named the <hi>George Bona-Adventura,</hi> being ready fitted and entred in the Admiralty, proceeded upon his intended Voy<g ref="char:EOLhyphen"/>age, others purpoſing to follow him, as Wind and Weather ſhall ſerve, to bring home the Effects of the <hi>Bona Eſperanza,</hi> under the Protection of the Laws, towards the Relief of many hundred Families intereſſed therein, that want their Bread, which is eaten by Strangers and others, that live upon the Spoyls and Ruines of ſo many Orphans and Widows, that cries aloud to the Heavens for Iuſtice and Reſtitution.</p>
+            <list>
+               <item>The Debts incumbent upon the Crown,— 148216.</item>
+               <item>The Debts upon the <hi>Bardaboes.</hi>— 065000.</item>
+               <item>The Debts incumbent upon the <hi>Eaſt-India</hi> Company of the <hi>Netherlands.</hi>— 151612.</item>
+               <item>The Debts ſtanding out upon Civil Actions in <hi>Holland</hi> and <hi>Zealand.</hi>— 134000.</item>
+            </list>
+            <q>Ius permaneat ſemper nec unquam mutatur.</q>
+            <div type="publishers_advertisement">
+               <p>If any Perſon deſires to be more particularly informed in any of the ſaid Caſes, he may be ſatisfied in the whole matters of Fact at large, in a Book Intituled, <hi>Fraud and Oppreſſion, Detected and Arraigned;</hi> at Mr. <hi>George Downes</hi> his Shop, at the three <hi>Flower de Luces</hi> over againſt St. <hi>Dunſtans Church</hi> in <hi>Fleet<g ref="char:EOLhyphen"/>ſtreet.</hi> And Mr. <hi>Samuel Carr Bookſeller,</hi> at the <hi>Kings Head</hi> in St. <hi>Pauls Church Yard.</hi>
+               </p>
+            </div>
+            <div type="attestation">
+               <p>Recollect. fideliter ex Originalibus,</p>
+               <closer>
+                  <signed>per <hi>Georg: Carew</hi> Ar: Excudebat <date>
+                        <hi>Octob. 21. 1680.</hi>
+                     </date>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
